@@ -1,0 +1,8 @@
+C:\Users\mousumi.kumari\source\repos\Delegates\MultitelecastReturnValue\bin\Debug\MultitelecastReturnValue.exe.config
+C:\Users\mousumi.kumari\source\repos\Delegates\MultitelecastReturnValue\bin\Debug\MultitelecastReturnValue.exe
+C:\Users\mousumi.kumari\source\repos\Delegates\MultitelecastReturnValue\bin\Debug\MultitelecastReturnValue.pdb
+C:\Users\mousumi.kumari\source\repos\Delegates\MultitelecastReturnValue\obj\Debug\MultitelecastReturnValue.csproj.AssemblyReference.cache
+C:\Users\mousumi.kumari\source\repos\Delegates\MultitelecastReturnValue\obj\Debug\MultitelecastReturnValue.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\Delegates\MultitelecastReturnValue\obj\Debug\MultitelecastReturnValue.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\Delegates\MultitelecastReturnValue\obj\Debug\MultitelecastReturnValue.exe
+C:\Users\mousumi.kumari\source\repos\Delegates\MultitelecastReturnValue\obj\Debug\MultitelecastReturnValue.pdb

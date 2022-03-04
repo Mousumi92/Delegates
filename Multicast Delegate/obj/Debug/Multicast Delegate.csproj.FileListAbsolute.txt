@@ -1,0 +1,7 @@
+C:\Users\mousumi.kumari\source\repos\Delegates\Multicast Delegate\bin\Debug\Multicast Delegate.exe.config
+C:\Users\mousumi.kumari\source\repos\Delegates\Multicast Delegate\bin\Debug\Multicast Delegate.exe
+C:\Users\mousumi.kumari\source\repos\Delegates\Multicast Delegate\bin\Debug\Multicast Delegate.pdb
+C:\Users\mousumi.kumari\source\repos\Delegates\Multicast Delegate\obj\Debug\Multicast Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\Delegates\Multicast Delegate\obj\Debug\Multicast Delegate.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\Delegates\Multicast Delegate\obj\Debug\Multicast Delegate.exe
+C:\Users\mousumi.kumari\source\repos\Delegates\Multicast Delegate\obj\Debug\Multicast Delegate.pdb

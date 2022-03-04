@@ -1,0 +1,8 @@
+C:\Users\mousumi.kumari\source\repos\Delegates\PredicateDelegate\bin\Debug\PredicateDelegate.exe.config
+C:\Users\mousumi.kumari\source\repos\Delegates\PredicateDelegate\bin\Debug\PredicateDelegate.exe
+C:\Users\mousumi.kumari\source\repos\Delegates\PredicateDelegate\bin\Debug\PredicateDelegate.pdb
+C:\Users\mousumi.kumari\source\repos\Delegates\PredicateDelegate\obj\Debug\PredicateDelegate.csproj.AssemblyReference.cache
+C:\Users\mousumi.kumari\source\repos\Delegates\PredicateDelegate\obj\Debug\PredicateDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\Delegates\PredicateDelegate\obj\Debug\PredicateDelegate.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\Delegates\PredicateDelegate\obj\Debug\PredicateDelegate.exe
+C:\Users\mousumi.kumari\source\repos\Delegates\PredicateDelegate\obj\Debug\PredicateDelegate.pdb
